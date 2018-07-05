@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.elad.plants"
+    },
+    "jhipsterVersion": "4.14.3",
+    "baseName": "plants",
+    "packageName": "com.elad.plants",
+    "packageFolder": "com/elad/plants",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": false,
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "27465d02f2dd7b0b49385ec937679fc2a65161a6",
+    "enableTranslation": false
+  }
+}
